@@ -1,0 +1,29 @@
+matd04
+
+
+2,5 prova1
+
+analise de complexidade
+funcao
+registro - struct
+busca
+ordenacao
+recursividade
+
+
+2,5 prova2
+
+lista
+arranjo
+alocacao dinamica
+lista encadeada e circular
+fila
+pilha
+
+
+2,5 prova3
+
+arvore
+heap
+ordenacao
+busca
