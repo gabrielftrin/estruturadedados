@@ -1,3 +1,22 @@
 
 * Utlizando números aleatorios
 https://www.cprogressivo.net/2013/03/Como-gerar-numeros-aleatorios-em-C-com-a-rand-srand-e-seed.html
+
+* Endereco do vetor
+
+Como calcular o acesso aos endereços de memória do 
+vetor? 
+&(V[i]) = &V+i*sizeof(int);
+&(M[i][j]) =(&M+i*numCols+j)*sizeof(int);
+•
+Como verificar se esses endereços são válidos? 
+•
+Não há geração de código pelo compilador para essa 
+verificação 
+•
+Feita explicitamente pelo programador 
+•
+Caso contrário: erro de segmentação (
+segmentation 
+fault
+)
