@@ -1,0 +1,3 @@
+
+* Utlizando números aleatorios
+https://www.cprogressivo.net/2013/03/Como-gerar-numeros-aleatorios-em-C-com-a-rand-srand-e-seed.html
